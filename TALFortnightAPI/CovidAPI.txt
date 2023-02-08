@@ -1,0 +1,12 @@
+Planned functionality of API from front end (thurs / fri)
+
+#1 - a showcase page for everything I've done along the way and notes to document my learning
+#2 - a page with 2 options for calls to the rapidapi covidvacc api
+#3 - a page with 1 option to call image data from google images api
+
+Tasks 1 & 3 will be completed after core functionality to ensure timely completion
+
+Task 2 elaboration:
+2 elements 
+1. -> 6 months get call (returns new and total deaths, vaccinations, cases e.g. 6 total paths)
+2. -> total up to date data for all countries

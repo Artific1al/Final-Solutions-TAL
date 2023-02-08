@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TAL_API", "TAL_API.csproj", "{82E488BA-CF45-4685-A1D0-39C3924A6CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82E488BA-CF45-4685-A1D0-39C3924A6CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E488BA-CF45-4685-A1D0-39C3924A6CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E488BA-CF45-4685-A1D0-39C3924A6CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E488BA-CF45-4685-A1D0-39C3924A6CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17823E5A-277E-454A-BD2B-731BC41A6969}
+	EndGlobalSection
+EndGlobal

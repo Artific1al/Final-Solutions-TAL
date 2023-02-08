@@ -1,0 +1,45 @@
+Pseudo Cards for my TAL Fortnight API Sprint
+Difficult Ratings Very Rough and from 2-5 in line with fibonacci - inital ratings based off of 'feel' and 
+what is known / unknown with unkowns ranked as more complex
+TBC = To Be Completed
+
+Goal -> outlined by scott
+
+Cards -> 
+
+How to call an API
+-> Determine how to pass a get command to an API [DONE] (2)
+-> Determine how to pass a post command to an API [DONE] (2)
+-> Spike (Research / pick either / or utilize both synchronous and asynchronous development) [IN PROGRESS] (3)
+-> Spike (Research how to pass headers and parameters to APIs) [CONTINUOUS] (3)
+
+
+How to create a front end
+-> Spike (Research different local web hosts e.g. blazor or asp.net core web app and potentially asure) [TBC] (3) 
+-> Create a very basic front end on selected front end solution type [TBC] (3)
+-> Spike (Research different ways to program this e.g. c# potentially? java through react / angular?) [TBC] (3)
+
+How to create an API
+-> Spike (Research what is or isn't involved in creating an API - break down into further cards) [TBC] (5)
+-> If previous spike yields viable, create an API as determined in previous spike [TBC] (3)
+
+
+First Iteration Project (someone else's api and base line functionality) - Iteration 1.0
+-> Spike (Research APIs and determine base line functionality in case of blockers & to allow for scalability in iteration 2 if time) [TBC] (2)
+-> Spike (Research chosen API / APIs and determine specific functionality to implement and make specific criteria for iteration 1) [TBC] (2)
+-> Develop code to call existing API and make queriable [TBC] (5)
+-> Develop front end and ensure working first iteration in conjunction with back end code [TBC] (5)   
+
+// 31/1/23 - Everything from here down seems untimely so unless circumstances change later only the above will be completed
+
+Iteration 1.1
+-> If viable ammend Iteration 1.0 to involve my own API that I need to create and then merge to the existing solution [TBC] (5)
+
+Second Iteration Project
+... come back to in few days -> expand functionality or if my own API wasn't included originally and Iteration 1.1 was scrapped
+consider implementing here if viable [TBC] (5)
+
+
+Intention - Show my work to a few people on Wednesday in order to get feedback for 2nd week - not showing this plan initially because I think
+I've learnt a lot from watching and talking to everyone so I want to face the issues of this plan myself and reflect halfway through and after
+completion. 
